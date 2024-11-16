@@ -1,16 +1,8 @@
-# package_project
+# package_easyloading_study
 
-A new Flutter project.
+패키지를 이용한 로딩 사용법
 
-## Getting Started
+## 이지 로딩 설명
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+pub.dev를 활용하였고 pubspec.yaml 파일에 dependency에 패키지를 추가하고 이지로딩 사용법은 Easyloaing의 메소드를 활용하면 된다. 
+자세한 내용은 pub.dev를 확인하자
